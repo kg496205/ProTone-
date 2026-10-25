@@ -11,4 +11,4 @@ Timer IC NE555, DIP-8 1
 11 Jumper wires Male-to-male 1 set
 12 Power supply Regulated 5 V USB supply 1
 13 USB power cable Compatible with
-![image] (Screenshot_2026-10-25-20-28-00-22_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
+![image](Screenshot_2026-10-25-20-28-00-22_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
